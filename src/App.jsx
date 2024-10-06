@@ -4,7 +4,7 @@ import Home from './pages/Home';
 import About from './pages/About';
 import Projects from './pages/Projects';
 import Footer from './components/Footer'; 
-import ProjectDetail from './pages/ProjectDetail';
+import ProjectDetail from './pages/Projectdetail';
 
 function App() {
   return (
@@ -26,3 +26,4 @@ function App() {
 }
 
 export default App;
+

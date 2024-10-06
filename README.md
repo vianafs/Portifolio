@@ -5,7 +5,7 @@ Descrição
 Este portfólio foi criado para apresentar alguns dos projetos que desenvolvi ao longo da minha carreira e formação. A página principal contém links para visualização dos projetos, com descrições detalhadas e links para os repositórios no GitHub. O design é responsivo, garantindo uma boa visualização em diferentes dispositivos.
 
 Tecnologias Utilizadas
-React: Biblioteca JavaScript para construção de interfaces de usuário./n
+React: Biblioteca JavaScript para construção de interfaces de usuário.
 Vite: Ferramenta de build extremamente rápida para projetos React.
 Tailwind CSS: Framework utilitário CSS para estilização rápida e eficiente.
 React Router: Biblioteca para navegação entre páginas e roteamento de URLs.
